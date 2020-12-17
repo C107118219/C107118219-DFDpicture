@@ -4,5 +4,5 @@
 # C107118219-Web式設計
 ![picture](UntitledDiagram.png "Webp")
 
-# C107118219-Web式設計
-![picture](UntitledDiagram.png "update23333333")
+# C107118219-二層式與三層式的主從式架構設計
+![picture](23333333.jpd "update23333333")
