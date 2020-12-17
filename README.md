@@ -5,4 +5,4 @@
 ![picture](UntitledDiagram.png "Webp")
 
 # C107118219-二層式與三層式的主從式架構設計
-![picture](23333333.jpd "update23333333")
+![picture](23333333.jpg "update23333333")
